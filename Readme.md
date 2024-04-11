@@ -13,7 +13,7 @@ Welcome to my web development projects, where I post various solutions to challl
 
 ## Overview
 
-This repository contains solutions of projects from various web development challenges across several websites that provide web development or coding challenges and also my own web development projects from scratch.
+This repository contains solutions of projects from various web development challenges across several websites that provide web development or coding challenges and also my own web development projects that I develop from scratch.
 
 ### Links of sites I use to get challenges.
 
