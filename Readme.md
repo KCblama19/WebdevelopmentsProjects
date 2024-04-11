@@ -40,6 +40,8 @@ These are various links of websites I usually get coding challenges from.
 
 I'm looking forward to mastering the fundamentals and advanced concepts of web development.
 
+I also have an eye on artificial intelligence, and will work with it sooner than later, excitingly python has proven to be more easier than C programming language, I guess it shouldn't take me long to get my fingers around it.
+
 ### Resources I use when building projects
 
 - [w3schools](https://www.w3schools.com)
